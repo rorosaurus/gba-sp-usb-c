@@ -24,3 +24,6 @@ You can 3D print [this file](https://www.thingiverse.com/thing:4123563) to fill 
 7. Solder the remaining standoff to lock the USB-C PCB in place. Test the strength of this connection and reinforce if necessary. Remember it needs to support the stress of plugging in and pulling out many times!
 8. Solder the 5V half circle pad to the 5V pad on the Game Boy PCB.
 9. Plug in USB-C cable to test!
+
+# Thanks
+Thank you to [makho](https://www.youtube.com/channel/UC5FYpo9lFqK1Y7wqjPuANFw) and [BlindEye/Hidarite](https://www.tindie.com/stores/hidarite/) for the original PCB design, video, and STL file!
