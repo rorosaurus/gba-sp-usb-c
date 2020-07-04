@@ -1,0 +1,12 @@
+How to Order PCB
+
+Please refer to:
+https://docs.easyeda.com/en/PCB/Order-PCB
+
+Order in 0.8mm
+
+BlindEye’s AGS -> USB Type C adapter board. Requires these USB Type C ports: https://www.aliexpress.com/item/32885941456.html
+
+Can also use this STL to 3D print a spacer (I finally fixed the spacing): https://cdn.discordapp.com/attachments/332487777986019337/670008168226619424/AGS_C_Spacer.stl
+
+Or you can get it from my thingiverse: https://www.thingiverse.com/thing:4123563
