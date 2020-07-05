@@ -2,7 +2,7 @@
 
 [![PCB](https://github.com/rorosaurus/gba-sp-usb-c/blob/master/images/pcb-front.jpg)](https://www.tindie.com/products/20612/)
 
-[![Final result](https://github.com/rorosaurus/gba-sp-usb-c/blob/master/images/final-verification.jpg)](https://www.tindie.com/products/20612/)
+[![Final result](https://github.com/rorosaurus/gba-sp-usb-c/blob/master/images/completed-test.jpg)](https://www.tindie.com/products/20612/)
 
 # [Buy on Tindie](https://www.tindie.com/products/20612/)! [![I sell on Tindie](https://github.com/rorosaurus/esp32-hub75-driver/raw/master/images/tindie.png)](https://www.tindie.com/stores/rorosaurus/)
 
@@ -10,9 +10,19 @@ There is an [existing PCB](https://oshpark.com/shared_projects/I6UOH6gb) that my
 
 My PCB works with ````USB-C <-> USB-C```` cables as well, so you can use ANY USB-C cable/port to charge it! It's also been tested to work with ````USB-A -> USB-C```` cables, Quick Charge, and USB-PD!
 
-This design is compatible with 3.5mm headphone jack mods! That means my PCB will not block the other pins you need from the default charging port pads on the Game Boy's PCB.
+# Options
 
-You can 3D print [this file](https://www.thingiverse.com/thing:4123563) to fill in the gap in the case created by the smaller USB-C port.
+DIY Kit - You recieve all the necessary parts: PCB, Type-C female connector, and 2x 5.1K SMD 0402 resistors. You will assemble it yourself using a fine tip soldering iron or solder paste and reflow.
+
+Assembled - I will assemble the components for you before shipping. You only have to desolder the exisiting charging port, then solder 3 points to attach to your Game Boy!
+
+3D printed bezel - I will include a small 3D printed part to fill in the gap in the case created by the smaller USB-C port. Alternative, you can 3D print [the part](https://www.thingiverse.com/thing:4123563) yourself, or skip this optional cosmetic mod.
+
+# Compatibility
+
+I have tested this design on my AGS-001. Based on the AGS-101 pictures I've seen online, and talking with AGS-101 owners, I expect this to work for AGS-101 with zero issues.
+
+This design is compatible with 3.5mm headphone jack mods! That means my PCB will not block the other pins you need from the default charging port pads on the Game Boy's PCB.
 
 # Instructions
 1. Watch [makho's video](https://www.youtube.com/watch?v=gBLHvdre-Xg) of installing a similar version of this PCB! This is an awesome overview that will be very helpful to reference. The below instructions simply outline what he does in the video.
