@@ -6,9 +6,13 @@
 
 # [Buy on Tindie](https://www.tindie.com/products/20612/)! [![I sell on Tindie](https://github.com/rorosaurus/esp32-hub75-driver/raw/master/images/tindie.png)](https://www.tindie.com/stores/rorosaurus/)
 
-There is an [existing PCB](https://oshpark.com/shared_projects/I6UOH6gb) that my design is based on. However, that design only works with ````USB-A -> USB-C```` cables.
+This product was featured on the [Tindie Blog](https://blog.tindie.com/2020/07/game-boy-advance-sp-usb-c-charging-port/)!
 
-My PCB works with ````USB-C <-> USB-C```` cables as well, so you can use ANY USB-C cable/port to charge it! It's also been tested to work with ````USB-A -> USB-C```` cables, Quick Charge, and USB-PD!
+Charge your Game Boy Advance SP with USB-C, using any USB-C cable and charger! If it fits, it'll charge! Finally you can stop carrying around that extra proprietary cable!
+
+The [existing PCB](https://oshpark.com/shared_projects/I6UOH6gb) that my design is based on only works with ````USB-A -> USB-C```` cables. In my opinion, if you're gonna future-proof your Game Boy, you shouldn't remain reliant on Type-A!
+
+My PCB works with ````USB-C <-> USB-C```` cables as well, so you can use ANY USB-C cable/charger to charge it! I've also verified it works with ````USB-A -> USB-C```` cables, Quick Charge, and USB-PD! That means if your charger or USB battery pack offers 5V/9V/12V/etc., it will recognize the Game Boy can only accept 5V and charge accordingly.
 
 # Options
 
