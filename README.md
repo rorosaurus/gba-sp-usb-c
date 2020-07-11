@@ -1,4 +1,4 @@
-## The truly universal USB-C dream is finally realized for your Game Boy Advance SP!
+This product was featured on the [Tindie Blog](https://blog.tindie.com/2020/07/game-boy-advance-sp-usb-c-charging-port/)!
 
 [![PCB](https://github.com/rorosaurus/gba-sp-usb-c/blob/master/images/pcb-front.jpg)](https://www.tindie.com/products/20612/)
 
@@ -6,7 +6,7 @@
 
 # [Buy on Tindie](https://www.tindie.com/products/20612/)! [![I sell on Tindie](https://github.com/rorosaurus/esp32-hub75-driver/raw/master/images/tindie.png)](https://www.tindie.com/stores/rorosaurus/)
 
-This product was featured on the [Tindie Blog](https://blog.tindie.com/2020/07/game-boy-advance-sp-usb-c-charging-port/)!
+## The truly universal USB-C dream is finally realized for your Game Boy Advance SP!
 
 Charge your Game Boy Advance SP with USB-C, using any USB-C cable and charger! If it fits, it'll charge! Finally you can stop carrying around that extra proprietary cable!
 
