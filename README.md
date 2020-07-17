@@ -26,7 +26,7 @@ Assembled - I will assemble the components for you before shipping. You only hav
 
 I have tested this design on my AGS-001. Based on the AGS-101 pictures I've seen online, and talking with AGS-101 owners, I expect this to work for AGS-101 with zero issues.
 
-This design is compatible with 3.5mm headphone jack mods! [[1](https://imgur.com/a/mqhpRvp)][[2](https://hackaday.io/project/173427-gba-sp-headphone-jack-mod)][[3](https://imgur.com/a/aFbhm)] That means my PCB will not block the other pins you need from the default charging port pads on the Game Boy's motherboard.
+This design is compatible with [3.5mm headphone jack mods](https://github.com/rorosaurus/gba-sp-headphone-jack)! That means my PCB will not block the other pins you need from the default charging port pads on the Game Boy's motherboard.
 
 # Instructions
 1. Watch [makho's video](https://www.youtube.com/watch?v=gBLHvdre-Xg) of installing a similar version of this PCB! This is an awesome overview that will be very helpful to reference. The below instructions simply outline what he does in the video.
