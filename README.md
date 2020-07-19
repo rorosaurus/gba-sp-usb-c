@@ -10,17 +10,17 @@ This product was featured on the [Tindie Blog](https://blog.tindie.com/2020/07/g
 
 Charge your Game Boy Advance SP with USB-C, using any USB-C cable and charger! If it fits, it'll charge! Finally you can stop carrying around that extra proprietary cable!
 
-The [existing PCB](https://oshpark.com/shared_projects/I6UOH6gb) that my design is based on only works with ````USB-A -> USB-C```` cables. In my opinion, if you're gonna future-proof your Game Boy, you shouldn't remain reliant on Type-A!
+My design is based off [this existing PCB](https://oshpark.com/shared_projects/I6UOH6gb) that only works with ````USB-A -> USB-C```` cables. In my opinion, if you're gonna future-proof your Game Boy, you shouldn't remain reliant on Type-A!
 
 My PCB works with ````USB-C <-> USB-C```` cables as well, so you can use ANY USB-C cable/charger to charge it! I've also verified it works with ````USB-A -> USB-C```` cables, Quick Charge, and USB-PD! That means if your charger or USB battery pack offers 5V/9V/12V/etc., it will recognize the Game Boy can only accept 5V and charge accordingly.
 
 # Options
 
-DIY Kit - You recieve all the necessary parts: PCB, Type-C female connector, and 2x 5.1K SMD 0402 resistors. You will assemble it yourself using a fine tip soldering iron or solder paste and reflow.
+* **DIY Kit**: You recieve all the necessary parts: PCB, Type-C female connector, and 2x 5.1K SMD 0402 resistors. You will assemble it yourself using a fine tip soldering iron or solder paste and reflow.
 
-Assembled - I will assemble the components for you before shipping. You only have to desolder the exisiting charging port, then solder 3 points to attach to your Game Boy!
+* **Assembled**: I will assemble the components for you before shipping. You only have to desolder the exisiting charging port, then solder 3 points to attach to your Game Boy!
 
-3D printed bezel - I will include a small 3D printed part to fill in the gap in the case created by the smaller USB-C port. Alternatively, you can 3D print [the part](https://www.thingiverse.com/thing:4123563) yourself, or skip this optional cosmetic mod.
+* **3D printed bezel**: I will include a small 3D printed part to fill in the gap in the case created by the smaller USB-C port. It will friciton-fit snugly, or you can use glue/epoxy to keep it in place. Alternatively, you can 3D print [the part](https://www.thingiverse.com/thing:4123563) yourself, or skip this optional cosmetic mod.
 
 # Compatibility
 
