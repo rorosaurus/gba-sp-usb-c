@@ -16,11 +16,11 @@ My PCB works with ````USB-C <-> USB-C```` cables as well, so you can use ANY USB
 
 # Options
 
-* **DIY Kit**: You recieve all the necessary parts: PCB, Type-C female connector, and 2x 5.1K SMD 0402 resistors. You will assemble it yourself using a fine tip soldering iron or solder paste and reflow.
+* **DIY Kit**: You recieve all the necessary parts: PCB, Type-C female connector, and 2x 5.1K SMD 0402 resistors. You will assemble it yourself using a steady hand and fine tip soldering iron (or solder paste, then reflow).
 
 * **Assembled**: I will assemble the components for you before shipping. You only have to desolder the exisiting charging port, then solder 3 points to attach to your Game Boy!
 
-* **3D printed bezel**: I will include a small 3D printed part to fill in the gap in the case created by the smaller USB-C port. It will friciton-fit snugly, or you can use glue/epoxy to keep it in place. Alternatively, you can 3D print [the part](https://www.thingiverse.com/thing:4123563) yourself, or skip this optional cosmetic mod.
+* **3D printed bezel**: I will include a small 3D printed part to fill in the gap in the case created by the smaller USB-C port. It will friciton-fit snugly, or you can use glue/epoxy to keep it in place. Some post-processing (sanding) might be necessary for the cleanest look. Alternatively, you can 3D print [the part](https://www.thingiverse.com/thing:4123563) yourself, or skip this optional cosmetic mod.
 
 # Compatibility
 
