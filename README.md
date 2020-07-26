@@ -28,17 +28,23 @@ I have tested this design on my AGS-001. Based on the AGS-101 pictures I've seen
 
 This design is compatible with [3.5mm headphone jack mods](https://github.com/rorosaurus/gba-sp-headphone-jack)! That means my PCB will not block the other pins you need from the default charging port pads on the Game Boy's motherboard.
 
-# Instructions
-1. Watch [makho's video](https://www.youtube.com/watch?v=gBLHvdre-Xg) of installing a similar version of this PCB! This is an awesome overview that will be very helpful to reference. The below instructions simply outline what he does in the video.
-2. Test your USB-C board before we begin! Plug it in to a Type-C cable and power source, then use a multimeter to measure the voltage across any of the grounded holes and the +5V half-circle in the back. Ensure it reads ~5V. Flip your USB-C cable the other way around and verify it still reads 5V!
-3. Carefully desolder and remove existing charging port. Use a solder sucker and solder wick. Take your time and take great care to not get impatient and rip up any pads!
-4. Fill in the standoffs on both PCB's (Game Boy and my PCB) with solder.
-5. Ensure bottom of USB-C PCB is flat, as well as the top of the Game Boy motherboard. You can use flush cutters and solder wick to help you with this. You might need to gently and carefuly sand the bottom through-hole connections for the USB-C port to ensure they are fully flat.
-6. Align the USB-C PCB so that the standoffs are directly above the Game Boy's and solder one joint.
-7. Reheat the joint and realign as necessary to ensure the standoffs are aligned properly, and the 5V power line aligns well with the pad it will connect to.
-8. Solder the remaining standoff to lock the USB-C PCB in place. Test the strength of this connection and reinforce if necessary. Remember it needs to support the stress of plugging in and pulling out many times!
-9. Solder the 5V half circle pad to the 5V pad on the Game Boy motherbaord.
-10. Plug in USB-C cable to test!
+# Installation
+
+## - Test before you install!
+I test every board before shipping, but you should be certain it still works before you install it! Plug it in to a ````Type-C <-> Type-C```` cable and USB-C power source. **Do not perform this test with a ````Type-A -> Type-C```` cable - that cable won't verify the board works for full USB-C!** Use a multimeter to measure the voltage across any of the grounded holes and the +5V half-circle in the back. Ensure it reads ~5V. Flip your USB-C cable the other way around and verify it still reads 5V! Alternatively, if you have a USB-C multimeter [like this](https://smile.amazon.com/gp/product/B07X3HST7V/) you can simply plug into that and read the display.
+
+## - Installation Video
+I highly recommend you watch [makho's video](https://www.youtube.com/watch?v=gBLHvdre-Xg) of installing a similar version of this PCB! This is an *awesome* overview that will be very helpful to reference. The below instructions simply outline what he does in the video.
+
+## - Instructions
+1. Carefully desolder and remove existing charging port. Use a solder sucker and solder wick. Take your time and take great care to not get impatient and rip up any pads!
+2. Fill in the standoffs on both PCB's (Game Boy and my PCB) with solder.
+3. Ensure bottom of USB-C PCB is flat, as well as the top of the Game Boy motherboard. You can use flush cutters and solder wick to help you with this. You might need to gently and carefuly sand the bottom through-hole connections for the USB-C port to ensure they are fully flat.
+4. Align the USB-C PCB so that the standoffs are directly above the Game Boy's and solder one joint.
+5. Reheat the joint and realign as necessary to ensure the standoffs are aligned properly, and the 5V power line aligns well with the pad it will connect to.
+6. Solder the remaining standoff to lock the USB-C PCB in place. Test the strength of this connection and reinforce if necessary. Remember it needs to support the stress of plugging in and pulling out many times!
+7. Solder the 5V half circle pad to the 5V pad on the Game Boy motherbaord.
+8. Plug in USB-C cable to test! Hooray!
 
 # Thanks
 Thank you to [makho](https://www.youtube.com/channel/UC5FYpo9lFqK1Y7wqjPuANFw) and [BlindEye/Hidarite](https://www.tindie.com/stores/hidarite/) for the original PCB design, video, and STL file!
