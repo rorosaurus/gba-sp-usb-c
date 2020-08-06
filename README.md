@@ -8,6 +8,8 @@ This product was featured on the [Tindie Blog](https://blog.tindie.com/2020/07/g
 
 ## The truly universal USB-C dream is finally realized for your Game Boy Advance SP!
 
+*(Also compatible with the original Nintendo DS!)*
+
 Charge your Game Boy Advance SP with USB-C, using any USB-C cable and charger! If it fits, it'll charge! Finally you can stop carrying around that extra proprietary cable!
 
 My design is based off [this existing PCB](https://oshpark.com/shared_projects/I6UOH6gb) that only works with ````USB-A -> USB-C```` cables. In my opinion, if you're gonna future-proof your Game Boy, you shouldn't remain reliant on Type-A!
@@ -27,6 +29,8 @@ My PCB works with ````USB-C <-> USB-C```` cables as well, so you can use ANY USB
 I have tested this design on my AGS-001. Based on the AGS-101 pictures I've seen online, and talking with AGS-101 owners, I expect this to work for AGS-101 with zero issues.
 
 This design is compatible with [3.5mm headphone jack mods](https://github.com/rorosaurus/gba-sp-headphone-jack)! That means my PCB will not block the other pins you need from the default charging port pads on the Game Boy's motherboard.
+
+This design is also tested and confirmed working on the original (fat) Nintendo DS, NTR-001. Now your Phat GBA Macro can use USB-C as well! I'm working on a modified design I think will work for the DS Lite, so stay tuned!
 
 # Disclaimer
 
