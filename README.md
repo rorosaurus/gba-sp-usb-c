@@ -18,7 +18,7 @@ My PCB works with ````USB-C <-> USB-C```` cables as well, so you can use ANY USB
 
 # Options
 
-* **DIY Kit**: You recieve all the necessary parts: PCB, Type-C female connector, and 2x 5.1K SMD 0402 resistors. You will assemble it yourself using a steady, experienced hand and fine tip soldering iron. The resistors are VERY tiny (SMD 0402) so keep a close eye on them! I recommend using fine tweezers to position them easily.
+* **Unassembled (PARTS ONLY)**: You recieve all the necessary parts: PCB, Type-C female connector, and two 5.1K SMD 0402 resistors. You will assemble it yourself using a steady, experienced hand and fine tip soldering iron. The resistors are VERY tiny (SMD 0402) so keep a close eye on them! I recommend using fine tweezers to position them easily.
 
 * **Assembled**: I will assemble the components for you before shipping. You only have to desolder the exisiting charging port, then solder 3 points to attach to your Game Boy!
 
