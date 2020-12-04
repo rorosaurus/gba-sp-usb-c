@@ -7,7 +7,7 @@
 * USA - [Buy on Amazon](http://www.amazon.com/dp/B08L72TZWD)
 * Any other Country - [Buy on Tindie](https://www.tindie.com/products/20612/)
 
-[I wrote a quick explanation of why I switched to Amazon.](https://github.com/rorosaurus/gba-sp-usb-c/why-sell-on-amazon)
+[I wrote a quick explanation of why I switched to Amazon.](https://github.com/rorosaurus/gba-sp-usb-c/blob/master/why-sell-on-amazon.md)
 
 ## The truly universal USB-C dream is finally realized for your Game Boy Advance SP!
 
