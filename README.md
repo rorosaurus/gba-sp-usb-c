@@ -23,7 +23,7 @@ This product was featured on the [Tindie Blog](https://blog.tindie.com/2020/07/g
 
 # Options
 
-To reduce confusion and simplify filling orders, I've consolidated the options into just one offering which satisfies 70% of orders. I go into [a bit more detail here.](https://github.com/rorosaurus/gba-sp-usb-c/why-sell-on-amazon)
+To reduce confusion and simplify filling orders, I've consolidated the options into just one offering which satisfies 70% of orders. I go into [a bit more detail here.](https://github.com/rorosaurus/gba-sp-usb-c/blob/master/why-sell-on-amazon.md)
 
 I will assemble the components for you before shipping. You only have to desolder the exisiting charging port, then solder 3 points to attach to your Game Boy!
 
