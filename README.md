@@ -1,10 +1,13 @@
-This product was featured on the [Tindie Blog](https://blog.tindie.com/2020/07/game-boy-advance-sp-usb-c-charging-port/)!
-
 [![PCB](https://github.com/rorosaurus/gba-sp-usb-c/blob/master/images/pcb-front.jpg)](https://www.tindie.com/products/20612/)
 
 [![Final result](https://github.com/rorosaurus/gba-sp-usb-c/blob/master/images/completed-test.jpg)](https://www.tindie.com/products/20612/)
 
-# [Buy on Tindie](https://www.tindie.com/products/20612/)! [![I sell on Tindie](https://github.com/rorosaurus/esp32-hub75-driver/raw/master/images/tindie.png)](https://www.tindie.com/stores/rorosaurus/)
+# Where to Buy
+
+* USA - [Buy on Amazon](http://www.amazon.com/dp/B08L72TZWD)
+* Any other Country - [Buy on Tindie](https://www.tindie.com/products/20612/)
+
+[I wrote a quick explanation of why I switched to Amazon.](https://github.com/rorosaurus/gba-sp-usb-c/why-sell-on-amazon)
 
 ## The truly universal USB-C dream is finally realized for your Game Boy Advance SP!
 
@@ -16,21 +19,23 @@ My design is based off [this existing PCB](https://oshpark.com/shared_projects/I
 
 My PCB works with ````USB-C <-> USB-C```` cables as well, so you can use ANY USB-C cable/charger to charge it! I've also verified it works with ````USB-A -> USB-C```` cables, Quick Charge, and USB-PD! That means if your charger or USB battery pack offers 5V/9V/12V/etc., it will recognize the Game Boy can only accept 5V and charge accordingly.
 
+This product was featured on the [Tindie Blog](https://blog.tindie.com/2020/07/game-boy-advance-sp-usb-c-charging-port/)!
+
 # Options
 
-* **Unassembled (PARTS ONLY)**: You recieve all the necessary parts: PCB, Type-C female connector, and two 5.1K SMD 0402 resistors. You will assemble it yourself using a steady, experienced hand and fine tip soldering iron. The resistors are VERY tiny (SMD 0402) so keep a close eye on them! I recommend using fine tweezers to position them easily.
+To reduce confusion and simplify filling orders, I've consolidated the options into just one offering which satisfies 70% of orders. I go into [a bit more detail here.](https://github.com/rorosaurus/gba-sp-usb-c/why-sell-on-amazon)
 
-* **Assembled**: I will assemble the components for you before shipping. You only have to desolder the exisiting charging port, then solder 3 points to attach to your Game Boy!
+I will assemble the components for you before shipping. You only have to desolder the exisiting charging port, then solder 3 points to attach to your Game Boy!
 
-* **3D printed bezel**: I will include a small 3D printed part to fill in the gap in the case created by the smaller USB-C port. It will friciton-fit snugly, or you can use glue/epoxy to keep it in place. Some post-processing (sanding) might be necessary for the cleanest look. Alternatively, you can 3D print [the part](https://www.thingiverse.com/thing:4123563) yourself, or skip this optional cosmetic mod.
+I will include a small 3D printed part to fill in the gap in the case created by the smaller USB-C port. It will friciton-fit snugly, or you can use glue/epoxy to keep it in place. Some post-processing (sanding) might be necessary for the cleanest look.
 
 # Compatibility
 
-I have tested this design on my AGS-001. Based on the AGS-101 pictures I've seen online, and talking with AGS-101 owners, I expect this to work for AGS-101 with zero issues.
+This design works for the AGS-001 and AGS-101.
 
 This design is compatible with [3.5mm headphone jack mods](https://github.com/rorosaurus/gba-sp-headphone-jack)! That means my PCB will not block the other pins you need from the default charging port pads on the Game Boy's motherboard.
 
-This design is also tested and confirmed working on the original (fat) Nintendo DS, NTR-001. Now your Phat GBA Macro can use USB-C as well! I'm working on a modified design I think will work for the DS Lite, so stay tuned!
+It also works on the original (fat) Nintendo DS, NTR-001. Now your Phat GBA Macro can use USB-C as well!
 
 # Disclaimer
 
