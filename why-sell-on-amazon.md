@@ -32,7 +32,7 @@ If you would still prefer to order unassembled board without the 3D printed part
 
 I'm still trying to figure out how to sell to other countries through Amazon. For now, as a backup, I will aim to **occasionally restock my Tindie store** so that I can fulfill several international orders at once (much easier than one-at-a-time). I'll remove the US domestic shipping option from this product on Tindie, so US-based customers can only purchase through Amazon.
 
-So if you want this shipped outside the USA, please join the waitlist on Tindie. You'll get an email notification when I restock!
+So if you want this shipped outside the USA, and Tindie is out of stock, join the waitlist! You'll get an email notification when I restock!
 
 # Thanks
 
