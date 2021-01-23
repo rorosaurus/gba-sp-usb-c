@@ -64,4 +64,4 @@ Thank you to [makho](https://www.youtube.com/channel/UC5FYpo9lFqK1Y7wqjPuANFw) a
 * [USB-C Mod for Gameboy Advance SP (and original Nintendo DS)](https://github.com/rorosaurus/gba-sp-usb-c/)
 * [USB-C Mod for Nintendo DS Lite](https://github.com/rorosaurus/nds-lite-usb-c/)
 * [USB-C Mod for Nintendo 3DS XL](https://github.com/rorosaurus/3ds-xl-usb-c/)
-* [List of headphone jack mods for the Gameboy Advance SP
+* [List of headphone jack mods for the Gameboy Advance SP](https://github.com/rorosaurus/gba-sp-headphone-jack/)
