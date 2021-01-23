@@ -43,23 +43,25 @@ Modify your console at your own risk! This product is provided "as is", with no 
 
 # Installation
 
-Note: your PCB might arrive with some [slight perforations, from the breakaway panelization design](https://github.com/rorosaurus/gba-sp-usb-c/blob/master/images/breakaway-perforations.jpg) during PCB manufacturing. These can be left alone, or optionally filed/sanded away. You probably want to file the top side flat, if you also intend to perform a 3.5mm headphone jack mod.
+Instructions for assembly/installation can be found in [INSTALLATION.md](https://github.com/rorosaurus/gba-sp-usb-c/blob/master/INSTALLATION.md)
 
-## - Test before you install!
-I test every board before shipping, but you should be certain it still works before you install it! Plug it in to a ````Type-C <-> Type-C```` cable and USB-C power source. **Do not perform this test with a ````Type-A -> Type-C```` cable - that cable won't verify the board works for full USB-C!** Use a multimeter to measure the voltage across any of the grounded holes and the +5V half-circle in the back. Ensure it reads ~5V. Flip your USB-C cable the other way around and verify it still reads 5V! Alternatively, if you have a USB-C multimeter [like this](https://smile.amazon.com/gp/product/B07X3HST7V/) you can simply plug into that and read the display.
+# License
+If you have improvements, please modify these design files and share any improvements openly/freely with the community (via a pull request or another public repository)!
 
-## - Installation Video
-I highly recommend you watch [makho's video](https://www.youtube.com/watch?v=gBLHvdre-Xg) of installing a similar version of this PCB! This is an *awesome* overview that will be very helpful to reference. The below instructions simply outline what he does in the video.
+You are not permitted to profit off of this design or use it in any commercial venture.
 
-## - Instructions
-1. Carefully desolder and remove existing charging port. Use a solder sucker and solder wick. Take your time and take great care to not get impatient and rip up any pads!
-2. Fill in the standoffs on both PCB's (Game Boy and my PCB) with solder.
-3. Ensure bottom of USB-C PCB is flat, as well as the top of the Game Boy motherboard. You can use flush cutters and solder wick to help you with this. You might need to gently and carefuly sand the bottom through-hole connections for the USB-C port to ensure they are fully flat.
-4. Align the USB-C PCB so that the standoffs are directly above the Game Boy's and solder one joint.
-5. Reheat the joint and realign as necessary to ensure the standoffs are aligned properly, and the 5V power line aligns well with the pad it will connect to.
-6. Solder the remaining standoff to lock the USB-C PCB in place. Test the strength of this connection and reinforce if necessary. Remember it needs to support the stress of plugging in and pulling out many times!
-7. Solder the 5V half circle pad to the 5V pad on the Game Boy motherbaord.
-8. Plug in USB-C cable to test! Hooray!
+[Full license information.](https://github.com/rorosaurus/gba-sp-usb-c/blob/master/LICENSE.md)
 
 # Thanks
-Thank you to [makho](https://www.youtube.com/channel/UC5FYpo9lFqK1Y7wqjPuANFw) and [BlindEye/Hidarite](https://www.tindie.com/stores/hidarite/) for the original PCB design, video, and STL file!
+Thank you to [makho](https://www.youtube.com/channel/UC5FYpo9lFqK1Y7wqjPuANFw) and [BlindEye/Hidarite](https://www.tindie.com/stores/hidarite/) for the original PCB inspiration, installation video, and STL file!
+
+# Other Gameboy Mods
+
+[Mods - Game Boy Subreddit Wiki](https://www.reddit.com/r/GameBoy/wiki/mods)
+
+## My Other Gameboy Mods
+
+* [USB-C Mod for Gameboy Advance SP (and original Nintendo DS)](https://github.com/rorosaurus/gba-sp-usb-c/)
+* [USB-C Mod for Nintendo DS Lite](https://github.com/rorosaurus/nds-lite-usb-c/)
+* [USB-C Mod for Nintendo 3DS XL](https://github.com/rorosaurus/3ds-xl-usb-c/)
+* [List of headphone jack mods for the Gameboy Advance SP
