@@ -35,6 +35,10 @@ This design is compatible with [3.5mm headphone jack mods](https://github.com/ro
 
 It also works on the original (fat) Nintendo DS, NTR-001. Now your Phat GBA Macro can use USB-C as well!
 
+# Charge Speed
+
+This console's original charger (AGS-002) outputs up to 320mA at 5.2V. According to the USB-C spec, this mod will allow charging at up to 500mA at 5V. This mod will not result in any charging slowdown compared to the original charger.
+
 # Disclaimer
 
 Modify your console at your own risk! This product is provided "as is", with no warranty - express or implied. That said, if you have any issues or questions, don't hesitate to reach out!
