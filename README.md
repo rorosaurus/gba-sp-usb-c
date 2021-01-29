@@ -47,6 +47,10 @@ Modify your console at your own risk! This product is provided "as is", with no 
 
 Instructions for assembly/installation can be found in [INSTALLATION.md](https://github.com/rorosaurus/gba-sp-usb-c/blob/master/INSTALLATION.md)
 
+# 3D Printed Spacer
+
+The 3D print-able file to fill in the case gap is [on Thingiverse](https://www.thingiverse.com/thing:4123563).
+
 # License
 If you have improvements, please modify these design files and share any improvements openly/freely with the community (via a pull request or another public repository)!
 
