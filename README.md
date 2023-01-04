@@ -23,9 +23,9 @@ This product was featured on the [Tindie Blog](https://blog.tindie.com/2020/07/g
 
 To reduce confusion and simplify filling orders, I've consolidated the options into just one offering which satisfies 70% of orders. I go into [a bit more detail here.](https://github.com/rorosaurus/gba-sp-usb-c/blob/master/why-sell-on-amazon.md)
 
-I will assemble the components for you before shipping. You only have to desolder the exisiting charging port, then solder 3 points to attach to your Game Boy!
+I will assemble the components for you before shipping. You only have to desolder the existing charging port, then solder 3 points to attach to your Game Boy!
 
-I will include a small 3D printed part to fill in the gap in the case created by the smaller USB-C port. It will friciton-fit snugly, or you can use glue/epoxy to keep it in place. Some post-processing (sanding) might be necessary for the cleanest look.
+I will include a small 3D printed part to fill in the gap in the case created by the smaller USB-C port. It will friction-fit snugly, or you can use glue/epoxy to keep it in place. Some post-processing (sanding) might be necessary for the cleanest look.
 
 # Compatibility
 
